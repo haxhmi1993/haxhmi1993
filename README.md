@@ -2,7 +2,7 @@
 <h3 align="center">As a senior web developer, I have a passion for creating dynamic and responsive websites that deliver an exceptional user experience. I have worked on various web development projects for clients across different industries, from small to large corporations. I have a strong track record of delivering high-quality websites that meet the client's requirements and provide an optimal user experience. I collaborate closely with designers, project managers, and other stakeholders to ensure that the project is delivered on time and within budget.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxhmi1993&label=Profile%20views&color=0e75b6&style=flat" alt="haxhmi1993" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haxhmi1993" alt="haxhmi1993" /></a> </p>
-- 📫 How to reach me **imwaqas1993@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
